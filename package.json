@@ -2,7 +2,7 @@
   "name": "hacker-news",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://mananbansal2002.github.io/gh-pages-react-app/",
+"homepage": "https://devangtomar.github.io/gh-pages-hacker-news/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject", 
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,6 +30,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
+    ]
   }
 }
